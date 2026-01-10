@@ -1,0 +1,20 @@
+body {
+  max-width: 720px;
+  margin: auto;
+  padding: 2rem;
+  font-family: system-ui, serif;
+  line-height: 1.6;
+}
+
+header, footer {
+  margin-bottom: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.date {
+  color: #666;
+  font-size: 0.9rem;
+}
