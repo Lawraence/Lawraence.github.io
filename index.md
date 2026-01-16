@@ -35,19 +35,5 @@ title: Home
     </svg>
   </a>
 
-    <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/larry-lee-a81456365"
-     target="_blank"
-     aria-label="LinkedIn">
-    <svg height="24" viewBox="0 0 24 24" width="24" aria-hidden="true">
-      <path fill="currentColor"
-        d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5
-        1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8h4V24h-4V8zm7.5 0h3.8v2.2h.1
-        c.53-1 1.82-2.2 3.74-2.2C19.9 8 22 10.1 22 14.6V24h-4v-8.3
-        c0-2-.04-4.6-2.8-4.6-2.8 0-3.23 2.18-3.23 4.4V24h-4V8z">
-      </path>
-    </svg>
-  </a>
-
   <p>© {{ site.time | date: "%Y" }}</p>
 </footer>
